@@ -4,5 +4,8 @@
 ##### https://www.kaggle.com/mlg-ulb/creditcardfraud
 We have added a data sample to be executed with the notebook
 
-# Notebook
+### Notebook
 Ongoing work...
+
+### Presentation 
+Included in this repo in a PDF format.
