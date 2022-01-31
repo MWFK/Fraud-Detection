@@ -5,7 +5,7 @@
 We have added a data sample to be executed with the notebook
 
 ### Notebook
-Ongoing work...
+The rest of the notebook was deleted, since the original work have been sold.
 
 ### Presentation 
 Included in this repo in a PDF format.
